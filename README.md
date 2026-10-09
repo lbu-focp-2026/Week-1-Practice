@@ -1,8 +1,7 @@
 # Computer Programming: Test Repo
 
-## Samuel Bennington
-
-### Group FS4F
+## David Bolmadar
+### Group F2S
 ### Duncan Mullier
 
 This is a repo created just for testing.
